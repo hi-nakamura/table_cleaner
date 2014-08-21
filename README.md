@@ -1,6 +1,7 @@
 # TableCleaner
+Active Record経由でTRUNCATE TABLEを行う
 
-TODO: Write a gem description
+※サンプルで作ったものなのでrubygemsには未アップ
 
 ## Installation
 
@@ -17,8 +18,8 @@ Or install it yourself as:
     $ gem install table_cleaner
 
 ## Usage
-
-TODO: Write usage instructions here
+    Model.clean
+    -> TRUNCATE TABLE models;
 
 ## Contributing
 
