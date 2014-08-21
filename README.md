@@ -1,8 +1,6 @@
 # TableCleaner
 Active Record経由でTRUNCATE TABLEを行う
 
-※サンプルで作ったものなのでrubygemsには未アップ
-
 ## Installation
 
 Add this line to your application's Gemfile:
