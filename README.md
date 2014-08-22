@@ -1,17 +1,17 @@
 # TableCleaner
 Active Record経由でTRUNCATE TABLEを行う
 
-## Installation
+## ~~Installation~~
 
-Add this line to your application's Gemfile:
+~~Add this line to your application's Gemfile:~~
 
     gem 'table_cleaner'
 
-And then execute:
+~~And then execute:~~
 
     $ bundle
 
-Or install it yourself as:
+~~Or install it yourself as:~~
 
     $ gem install table_cleaner
 
